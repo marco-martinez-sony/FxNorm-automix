@@ -43,16 +43,12 @@
 
 
 ### Bassdddddd
+
+<div id="container" style="position: relative; width: 560px">
+    
 <!-- Nested divs start here -->
 
   <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
-    - Low-anchor <br />
-<audio controls="controls">
-    <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-  <div id="middlecolumn" style="position: absolute; width: 172px; left: 186px">
     - Low-anchor <br />
 <audio controls="controls">
     <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
@@ -67,6 +63,7 @@
   </div>
 
 <!--Nested divs end -->
+</div>
 
 
 
