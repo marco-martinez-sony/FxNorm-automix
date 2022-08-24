@@ -79,17 +79,17 @@
 
 #### Vocalsfggfdgf
 
-<div id="contentBox" style="margin:0px auto; width:200%">
+<div id="contentBox" style="margin:0px auto; width:385%">
  
 <!-- Nested divs start here -->
-  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
+  <div id="leftcolumn" style="position: absolute; width: 15%; left: 0px">
     - dry <br />
 <audio controls="controls">
     <source src="audio/008/vocals_dry.mp3" type="audio/mp3" />
 </audio>
   </div>
 
- <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
+ <div id="rightcolumn" style="position: absolute; width: 15%; left: 372px">
     - normalized <br />
 <audio controls="controls">
     <source src="audio/008/vocals_norm.mp3" type="audio/mp3" />
