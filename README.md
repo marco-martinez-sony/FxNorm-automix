@@ -6,7 +6,7 @@ Music mixing traditionally involves recording instruments in the form of clean, 
 <center>
  <iframe width="560" 
          height="315" 
-         src="https://www.youtube.com/watch?v=WKfca7t2MUE" 
+         src="https://www.youtube.com/embed/WKfca7t2MUE" 
          title="Demo Video" 
          frameborder="0" 
          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
