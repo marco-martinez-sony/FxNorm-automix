@@ -1,4 +1,4 @@
-# Automatic music mixing with deep learning and out-of-domain data
+# [Automatic music mixing with deep learning and out-of-domain data](https://marco-martinez-sony.github.io/FxNorm-automix/)
 &nbsp;
 
 ## Audio samples from the listening test dry set:
@@ -82,44 +82,44 @@
     - Vocals-dry <br />
 <audio controls="controls">
     <source src="audio/008/vocals_dry.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
     - Drums-dry <br />
 <audio controls="controls">
     <source src="audio/008/drums_dry.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
     - Bass-dry <br />
 <audio controls="controls">
     <source src="audio/008/bass_dry.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
     - Other-dry <br />
 <audio controls="controls">
     <source src="audio/008/other_dry.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
   </div>
 
  <div id="column2" style="float:left; margin:0; width:36.5%;">
     - Vocals-normalized <br />
 <audio controls="controls">
     <source src="audio/008/vocals_norm.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
      - Drums-normalized <br />
 <audio controls="controls">
     <source src="audio/008/drums_norm.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
      - Bass-normalized <br />
 <audio controls="controls">
     <source src="audio/008/bass_norm.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
      - Other-normalized <br />
 <audio controls="controls">
     <source src="audio/008/other_norm.mp3" type="audio/mp3" />
-</audio>
+</audio> <br />
   </div>
 
 </div>
 &nbsp;
 
-### Dry and Normalized mixes
+#### Dry and Normalized mixes
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
     - Dry mix <br />
