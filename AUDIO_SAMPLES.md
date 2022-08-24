@@ -77,25 +77,23 @@
 
 #### Stems: dry and normalized
 
-#### Vocals
+#### Vocalsfewfewff
 
-<div id="contentBox" style="margin:0px auto; width:385%">
- 
-<!-- Nested divs start here -->
-  <div id="column1" style="position: absolute; width: 15%;">
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
     - dry <br />
 <audio controls="controls">
     <source src="audio/008/vocals_dry.mp3" type="audio/mp3" />
 </audio>
   </div>
 
- <div id="column2" style="position: absolute; width: 15%;">
+ <div id="column1" style="float:left; margin:0; width:36.5%;">
     - normalized <br />
 <audio controls="controls">
     <source src="audio/008/vocals_norm.mp3" type="audio/mp3" />
 </audio>
   </div>
-<!--Nested divs end -->
+
 </div>
 &nbsp;
 &nbsp;
