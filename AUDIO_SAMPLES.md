@@ -42,21 +42,21 @@
 ### S4 - Stems: dry and normalized
 
 
-### Bassdddddd
+### Bass
 
 <div id="container" style="position: relative; width: 560px">
     
 <!-- Nested divs start here -->
 
   <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
-    - Low-anchor <br />
+    - dry <br />
 <audio controls="controls">
     <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
 </audio>
   </div>
 
   <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
-    - Low-anchor <br />
+    - normalized <br />
 <audio controls="controls">
     <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
 </audio>
@@ -65,26 +65,8 @@
 <!--Nested divs end -->
 </div>
 
-
-
-### Bass
-<div id="contentBox" style="margin:0px auto; width:385%">
-<div id="column1" style="float:left; margin:0; width:15.75%;">
-- Low-anchor <br />
-<audio controls="controls">
-    <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:15.75%;">
-- Mid-anchor <br />
-<audio controls="controls">
-    <source src="audio/distortion/full_model_61_101_x_mid.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-</div>
-
+&nbsp;
+&nbsp;
 
 
 
