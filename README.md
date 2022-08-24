@@ -26,15 +26,14 @@ For technical details of the work, please see our **ISMIR 2022 Paper**: [https:/
 >   year={2022}<br />
 >}<br />
 
-
-# Code
-
-Source code is available at [https://github.com/sony/fxnorm-automix](https://github.com/sony/fxnorm-automix)(Soon to be released).
-
-
 # Audio Samples
 
 Mixes are available [here](./AUDIO_SAMPLES.md).
+
+# Code
+
+Source code is available at ~~[https://github.com/sony/fxnorm-automix](https://github.com/sony/fxnorm-automix) (Soon to be released).~~
+
 
 &nbsp;
 &nbsp;
