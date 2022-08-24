@@ -41,24 +41,65 @@
 
 ### S4 - Stems: dry and normalized
 
-#### Bass
-
+#### Vocals
 <div id="contentBox" style="margin:0px auto; width:200%">
-    
 <div id="column1" style="float:left; margin:0; width:10%;">
 - dry  <br />
 <audio controls="controls">
-    <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
+    <source src="audio/018/bass_dry.mp3" type="audio/mp3" />
 </audio>
 </div>
-
 <div id="column2" style="float:left; margin:0;width:10%;">
 - normalized <br />
 <audio controls="controls">
-    <source src="audio/distortion/full_model_61_101_x_mid.mp3" type="audio/mp3" />
+    <source src="audio/018/bass_norm.mp3" type="audio/mp3" />
 </audio> <br />
 </div>
-    
+</div>
+#### Drums
+<div id="contentBox" style="margin:0px auto; width:200%">
+<div id="column1" style="float:left; margin:0; width:10%;">
+- dry  <br />
+<audio controls="controls">
+    <source src="audio/018/drums_dry.mp3" type="audio/mp3" />
+</audio>
+</div>
+<div id="column2" style="float:left; margin:0;width:10%;">
+- normalized <br />
+<audio controls="controls">
+    <source src="audio/018/drums_norm.mp3" type="audio/mp3" />
+</audio> <br />
+</div>
+</div>
+#### Bass
+<div id="contentBox" style="margin:0px auto; width:200%">
+<div id="column1" style="float:left; margin:0; width:10%;">
+- dry  <br />
+<audio controls="controls">
+    <source src="audio/018/bass_dry.mp3" type="audio/mp3" />
+</audio>
+</div>
+<div id="column2" style="float:left; margin:0;width:10%;">
+- normalized <br />
+<audio controls="controls">
+    <source src="audio/018/bass_norm.mp3" type="audio/mp3" />
+</audio> <br />
+</div>
+</div>
+#### Other
+<div id="contentBox" style="margin:0px auto; width:200%">
+<div id="column1" style="float:left; margin:0; width:10%;">
+- dry  <br />
+<audio controls="controls">
+    <source src="audio/018/other_dry.mp3" type="audio/mp3" />
+</audio>
+</div>
+<div id="column2" style="float:left; margin:0;width:10%;">
+- normalized <br />
+<audio controls="controls">
+    <source src="audio/018/other_norm.mp3" type="audio/mp3" />
+</audio> <br />
+</div>
 </div>
 &nbsp;
 &nbsp;
