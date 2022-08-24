@@ -1,10 +1,10 @@
 # Automatic music mixing with deep learning and out-of-domain data
 
-### Audio samples from the listening test:
+## Audio samples from the listening test:
 &nbsp;
 (Due to copyright, we can only make Song 4 public)
 
-#### S4 - Dance-Pop
+### S4 - Dance-Pop
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -37,6 +37,48 @@
 </audio> <br />
 </div>
 &nbsp;
+
+
+#### Stems: dry and normalized
+
+##### Bass
+
+<div id="contentBox" style="margin:0px auto; width:385%">
+<div id="column1" style="float:left; margin:0; width:15.75%;">
+- dry  <br />
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column2" style="float:left; margin:0;width:15.75%;">
+- normalized <br />
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_101_x_mid.mp3" type="audio/mp3" />
+</audio>
+</div>
+</div>
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Audio samples from the dry test set:
 
