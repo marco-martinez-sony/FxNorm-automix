@@ -75,9 +75,9 @@
 </div>
 &nbsp;
 
-### Stems: dry and normalized
+#### Stems: dry and normalized
 
-### Vocals
+#### Vocals
 
 <div id="container" style="position: relative; width: 560px">
  
@@ -98,69 +98,7 @@
 <!--Nested divs end -->
 </div>
 
-### Drums
 
-<div id="container" style="position: relative; width: 560px">
- 
-<!-- Nested divs start here -->
-  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
-    - dry <br />
-<audio controls="controls">
-    <source src="audio/008/drums_dry.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
-    - normalized <br />
-<audio controls="controls">
-    <source src="audio/008/drums_norm.mp3" type="audio/mp3" />
-</audio>
-  </div>
-<!--Nested divs end -->
-</div>
-
-### Bass
-
-<div id="container" style="position: relative; width: 560px">
- 
-<!-- Nested divs start here -->
-  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
-    - dry <br />
-<audio controls="controls">
-    <source src="audio/008/bass_dry.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
-    - normalized <br />
-<audio controls="controls">
-    <source src="audio/008/bass_norm.mp3" type="audio/mp3" />
-</audio>
-  </div>
-<!--Nested divs end -->
-</div>
-
-### Other
-
-<div id="container" style="position: relative; width: 560px">
- 
-<!-- Nested divs start here -->
-  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
-    - dry <br />
-<audio controls="controls">
-    <source src="audio/008/other_dry.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
-    - normalized <br />
-<audio controls="controls">
-    <source src="audio/008/other_norm.mp3" type="audio/mp3" />
-</audio>
-  </div>
-<!--Nested divs end -->
-</div>
-&nbsp;
 
 ### Dry and Normalized mixtures
 <div id="contentBox" style="margin:0px auto; width:100%">
