@@ -1,5 +1,5 @@
 # Automatic music mixing with deep learning and out-of-domain data
-
+&nbsp;
 ## Audio samples from the listening test:
 &nbsp;
 (Due to copyright, we can only make Song 4 public)
@@ -39,19 +39,19 @@
 &nbsp;
 
 
-#### Stems: dry and normalized
+#### S4 - Stems: dry and normalized
 
 ##### Bass
 
-<div id="contentBox" style="margin:0px auto; width:385%">
-<div id="column1" style="float:left; margin:0; width:15.75%;">
+<div id="contentBox" style="margin:0px auto; width:200%">
+<div id="column1" style="float:left; margin:0; width:50%;">
 - dry  <br />
 <audio controls="controls">
     <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:15.75%;">
+<div id="column2" style="float:left; margin:0;width:50%;">
 - normalized <br />
 <audio controls="controls">
     <source src="audio/distortion/full_model_61_101_x_mid.mp3" type="audio/mp3" />
@@ -80,9 +80,9 @@
 
 
 
-### Audio samples from the dry test set:
+## Audio samples from the dry test set:
 
-#### Rock
+### Rock
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -116,7 +116,7 @@
 </div>
 &nbsp;
 
-#### Indian-Pop
+### Indian-Pop
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -150,9 +150,9 @@
 </div>
 &nbsp;
 
-### Audio samples from the MUSDB18 test set:
+## Audio samples from the MUSDB18 test set:
 
-#### Rock/Pop: Cristina Vane - So Easy
+### Rock/Pop: Cristina Vane - So Easy
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -196,7 +196,7 @@
 </div>
 &nbsp;
 
-#### Metal: Hollow Ground - Ill Fate
+### Metal: Hollow Ground - Ill Fate
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -240,7 +240,7 @@
 </div>
 &nbsp;
 
-#### Dance-Pop: Juliet's Rescue - Heartbeats
+### Dance-Pop: Juliet's Rescue - Heartbeats
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -285,7 +285,7 @@
 &nbsp;
 
 
-#### Pop: Motor Tapes - Shore
+### Pop: Motor Tapes - Shore
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -329,7 +329,7 @@
 </div>
 &nbsp;
 
-#### Pop: Nerve 9 - Pray For The Rain
+### Pop: Nerve 9 - Pray For The Rain
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -374,7 +374,7 @@
 &nbsp;
 
 
-#### Electronic: PR - Happy Daze
+### Electronic: PR - Happy Daze
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -418,7 +418,7 @@
 </div>
 &nbsp;
 
-#### Electronic: Punkdisco - Oral Hygiene
+### Electronic: Punkdisco - Oral Hygiene
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -462,7 +462,7 @@
 </div>
 &nbsp;
 
-#### Hip-Hop: Side Effects Project - Sing With Me
+### Hip-Hop: Side Effects Project - Sing With Me
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -507,7 +507,7 @@
 &nbsp;
 
 
-#### Rock: The Long Wait - Dark Horses
+### Rock: The Long Wait - Dark Horses
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
@@ -551,7 +551,7 @@
 </div>
 &nbsp;
 
-#### Reggae: The Sunshine Garcia Band - For I Am The Moon
+### Reggae: The Sunshine Garcia Band - For I Am The Moon
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
 <audio controls="controls">
