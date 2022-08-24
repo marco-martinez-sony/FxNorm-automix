@@ -39,19 +39,19 @@
 &nbsp;
 
 
-#### S4 - Stems: dry and normalized
+### S4 - Stems: dry and normalized
 
-##### Bass
+#### Bass
 
 <div id="contentBox" style="margin:0px auto; width:200%">
-<div id="column1" style="float:left; margin:0; width:50%;">
+<div id="column1" style="float:left; margin:0; width:15.75%;">
 - dry  <br />
 <audio controls="controls">
     <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:50%;">
+<div id="column2" style="float:left; margin:0;width:15.75%;">
 - normalized <br />
 <audio controls="controls">
     <source src="audio/distortion/full_model_61_101_x_mid.mp3" type="audio/mp3" />
