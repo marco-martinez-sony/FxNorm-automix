@@ -1,78 +1,5 @@
 # Automatic music mixing with deep learning and out-of-domain data
 &nbsp;
-## Audio samples from the listening test:
-&nbsp;
-(Due to copyright, we can only make Song 4 public)
-
-### S4 - Dance-Pop
-<div id="contentBox" style="margin:0px auto; width:100%">
-- Human <br />
-<audio controls="controls">
-    <source src="audio/018/model_human_mixture.mp3" type="audio/mp3" />
-</audio> <br />
-
-- Ours-L-Lb <br />
-<audio controls="controls">
-    <source src="audio/018/model_ours_2_TM_mixture.mp3" type="audio/mp3" />
-</audio> <br />
-
-- Ours-L-La <br />
-<audio controls="controls">
-    <source src="audio/018/model_ours_1_TM_mixture.mp3" type="audio/mp3" />
-</audio> <br />
-
-- WUN-L-Lb <br />
-<audio controls="controls">
-    <source src="audio/018/model_wun_2_TM_mixture.mp3" type="audio/mp3" />
-</audio> <br />
-    
-- Ours-S-Lb <br />
-<audio controls="controls">
-    <source src="audio/018/model_ours_2_M_mixture.mp3" type="audio/mp3" />
-</audio> <br />
-
-- WUN-S-Lb <br />
-<audio controls="controls">
-    <source src="audio/018/model_wun_2_M_mixture.mp3" type="audio/mp3" />
-</audio> <br />
-</div>
-&nbsp;
-
-
-### S4 - Stems: dry and normalized
-
-
-### Bass
-
-<div id="container" style="position: relative; width: 560px">
-    
-<!-- Nested divs start here -->
-
-  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
-    - dry <br />
-<audio controls="controls">
-    <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
-    - normalized <br />
-<audio controls="controls">
-    <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-<!--Nested divs end -->
-</div>
-
-&nbsp;
-&nbsp;
-
-
-
-&nbsp;
-&nbsp;
-
 
 ## Audio samples from the dry test set:
 
@@ -110,6 +37,109 @@
 </div>
 &nbsp;
 
+### Stems: dry and normalized
+
+### Vocals
+
+<div id="container" style="position: relative; width: 560px">
+ 
+<!-- Nested divs start here -->
+  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
+    - dry <br />
+<audio controls="controls">
+    <source src="audio/008/vocals_dry.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
+    - normalized <br />
+<audio controls="controls">
+    <source src="audio/008/vocals_norm.mp3" type="audio/mp3" />
+</audio>
+  </div>
+<!--Nested divs end -->
+</div>
+
+### Drums
+
+<div id="container" style="position: relative; width: 560px">
+ 
+<!-- Nested divs start here -->
+  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
+    - dry <br />
+<audio controls="controls">
+    <source src="audio/008/drums_dry.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
+    - normalized <br />
+<audio controls="controls">
+    <source src="audio/008/drums_norm.mp3" type="audio/mp3" />
+</audio>
+  </div>
+<!--Nested divs end -->
+</div>
+
+### Bass
+
+<div id="container" style="position: relative; width: 560px">
+ 
+<!-- Nested divs start here -->
+  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
+    - dry <br />
+<audio controls="controls">
+    <source src="audio/008/bass_dry.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
+    - normalized <br />
+<audio controls="controls">
+    <source src="audio/008/bass_norm.mp3" type="audio/mp3" />
+</audio>
+  </div>
+<!--Nested divs end -->
+</div>
+
+### Other
+
+<div id="container" style="position: relative; width: 560px">
+ 
+<!-- Nested divs start here -->
+  <div id="leftcolumn" style="position: absolute; width: 172px; left: 0px">
+    - dry <br />
+<audio controls="controls">
+    <source src="audio/008/other_dry.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+  <div id="rightcolumn" style="position: absolute; width: 172px; left: 372px">
+    - normalized <br />
+<audio controls="controls">
+    <source src="audio/008/other_norm.mp3" type="audio/mp3" />
+</audio>
+  </div>
+<!--Nested divs end -->
+</div>
+&nbsp;
+### Dry and Normalized mixtures
+<div id="contentBox" style="margin:0px auto; width:100%">
+- Dry <br />
+<audio controls="controls">
+    <source src="audio/008/dry_mixture.mp3" type="audio/mp3" />
+</audio> <br />
+
+- Normalized <br />
+<audio controls="controls">
+    <source src="audio/008/norm_mix.mp3" type="audio/mp3" />
+</audio> <br />
+</div>
+
+
+&nbsp;
+&nbsp;
+
 ### Indian-Pop
 <div id="contentBox" style="margin:0px auto; width:100%">
 - Human <br />
@@ -143,6 +173,45 @@
 </audio> <br />
 </div>
 &nbsp;
+
+## Audio samples from the dry test set:
+&nbsp;
+(Due to copyright, we can only make Song 4 public)
+
+### S4 - Dance-Pop
+<div id="contentBox" style="margin:0px auto; width:100%">
+- Human <br />
+<audio controls="controls">
+    <source src="audio/018/model_human_mixture.mp3" type="audio/mp3" />
+</audio> <br />
+
+- Ours-L-Lb <br />
+<audio controls="controls">
+    <source src="audio/018/model_ours_2_TM_mixture.mp3" type="audio/mp3" />
+</audio> <br />
+
+- Ours-L-La <br />
+<audio controls="controls">
+    <source src="audio/018/model_ours_1_TM_mixture.mp3" type="audio/mp3" />
+</audio> <br />
+
+- WUN-L-Lb <br />
+<audio controls="controls">
+    <source src="audio/018/model_wun_2_TM_mixture.mp3" type="audio/mp3" />
+</audio> <br />
+    
+- Ours-S-Lb <br />
+<audio controls="controls">
+    <source src="audio/018/model_ours_2_M_mixture.mp3" type="audio/mp3" />
+</audio> <br />
+
+- WUN-S-Lb <br />
+<audio controls="controls">
+    <source src="audio/018/model_wun_2_M_mixture.mp3" type="audio/mp3" />
+</audio> <br />
+</div>
+&nbsp;
+
 
 ## Audio samples from the MUSDB18 test set:
 
