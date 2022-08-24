@@ -32,7 +32,7 @@ Mixes are available [here](./AUDIO_SAMPLES.md).
 
 # Code
 
-Source code is available at ~~[https://github.com/sony/fxnorm-automix](https://github.com/sony/fxnorm-automix) (Soon to be released).~~
+Source code is available at [https://github.com/sony/fxnorm-automix](https://github.com/sony/fxnorm-automix) (Soon to be released).
 
 
 &nbsp;
