@@ -3,11 +3,11 @@
 Music mixing traditionally involves recording instruments in the form of clean, individual tracks and blending them into a final mixture using audio effects and expert knowledge (e.g., a mixing engineer). The automation of music production tasks has become an emerging field in recent years, where rule-based methods and machine learning approaches have been explored. Nevertheless, the lack of dry or clean instrument recordings limits the performance of such models, which is still far from professional human-made mixes. We explore whether we can use out-of-domain data such as wet or processed multitrack music recordings and repurpose it to train supervised deep learning models that can bridge the current gap in automatic mixing quality. To achieve this we propose a novel data preprocessing method that allows the models to perform automatic music mixing. We also redesigned a listening test method for evaluating music mixing systems. We validate our results through such subjective tests using highly experienced mixing engineers as participants.
 
 <!---
-[![Demo Video](https://images/video.png?raw=true)](https://youtu.be/6ujkPwcQKo4)
+[![Demo Video](https:https://github.com/marco-martinez-sony/FxNorm-automix/blob/main/assets/video.png?raw=true)](https://www.youtube.com/watch?v=WKfca7t2MUE)
 -->
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/test" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<%/p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKfca7t2MUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 
 # Paper
