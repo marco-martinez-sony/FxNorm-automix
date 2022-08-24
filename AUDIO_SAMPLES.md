@@ -1,6 +1,6 @@
 # Automatic music mixing with deep learning and out-of-domain data
 &nbsp;
-## Audio samples from the listening testddddddd:
+## Audio samples from the listening test:
 &nbsp;
 (Due to copyright, we can only make Song 4 public)
 
@@ -41,66 +41,183 @@
 
 ### S4 - Stems: dry and normalized
 
-#### Vocals
-<div id="contentBox" style="margin:0px auto; width:200%">
-<div id="column1" style="float:left; margin:0; width:10%;">
-- dry  <br />
+### Tube amplifier emulation
+<div id="contentBox" style="margin:0px auto; width:385%">
+<div id="column1" style="float:left; margin:0; width:15.75%;">
+- Low-anchor <br />
 <audio controls="controls">
-    <source src="audio/018/bass_dry.mp3" type="audio/mp3" />
+    <source src="audio/distortion/full_model_61_101_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_99_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_84_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_69_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_44_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_35_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_31_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_6_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_5_x.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_2_x.mp3" type="audio/mp3" />
 </audio>
 </div>
-<div id="column2" style="float:left; margin:0;width:10%;">
-- normalized <br />
+
+<div id="column2" style="float:left; margin:0;width:15.75%;">
+- Mid-anchor <br />
 <audio controls="controls">
-    <source src="audio/018/bass_norm.mp3" type="audio/mp3" />
-</audio> 
-</div>
-</div>
-#### Drums
-<div id="contentBox" style="margin:0px auto; width:200%">
-<div id="column1" style="float:left; margin:0; width:10%;">
-- dry  <br />
+    <source src="audio/distortion/full_model_61_101_x_mid.mp3" type="audio/mp3" />
+</audio>
 <audio controls="controls">
-    <source src="audio/018/drums_dry.mp3" type="audio/mp3" />
+    <source src="audio/distortion/full_model_61_99_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_84_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_69_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_44_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_35_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_31_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_6_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_5_x_mid.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_2_x_mid.mp3" type="audio/mp3" />
 </audio>
 </div>
-<div id="column2" style="float:left; margin:0;width:10%;">
-- normalized <br />
+
+<div id="column3" style="float:left; margin:0;width:15.75%">
+- High-anchor <br />
 <audio controls="controls">
-    <source src="audio/018/drums_norm.mp3" type="audio/mp3" />
-</audio> 
-</div>
-</div>
-#### Bass
-<div id="contentBox" style="margin:0px auto; width:200%">
-<div id="column1" style="float:left; margin:0; width:10%;">
-- dry  <br />
+    <source src="audio/distortion/full_model_61_101_y.mp3" type="audio/mp3" />
+</audio>
 <audio controls="controls">
-    <source src="audio/018/bass_dry.mp3" type="audio/mp3" />
+    <source src="audio/distortion/full_model_61_99_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_84_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_69_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_44_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_35_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_31_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_6_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_5_y.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_2_y.mp3" type="audio/mp3" />
 </audio>
 </div>
-<div id="column2" style="float:left; margin:0;width:10%;">
-- normalized <br />
+
+<div id="column4" style="float:left; margin:0;width:15.75%">
+- DeepAFx <br />
 <audio controls="controls">
-    <source src="audio/018/bass_norm.mp3" type="audio/mp3" />
-</audio> 
-</div>
-</div>
-#### Other
-<div id="contentBox" style="margin:0px auto; width:200%">
-<div id="column1" style="float:left; margin:0; width:10%;">
-- dry  <br />
+    <source src="audio/distortion/full_model_61_101_z.mp3" type="audio/mp3" />
+</audio>
 <audio controls="controls">
-    <source src="audio/018/other_dry.mp3" type="audio/mp3" />
+    <source src="audio/distortion/full_model_61_99_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_84_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_69_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_44_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_35_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_31_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_6_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_5_z.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/full_model_61_2_z.mp3" type="audio/mp3" />
 </audio>
 </div>
-<div id="column2" style="float:left; margin:0;width:10%;">
-- normalized <br />
+
+<div id="column5" style="float:left; margin:0;width:15.75%;">
+- <a href="https://www.mdpi.com/2076-3417/10/2/638">CAFx</a><br />
 <audio controls="controls">
-    <source src="audio/018/other_norm.mp3" type="audio/mp3" />
-</audio> 
+    <source src="audio/distortion/CAFx_101.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_99.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_84.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_69.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_44.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_35.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_31.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_6.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_5.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/distortion/CAFx_2.mp3" type="audio/mp3" />
+</audio>
 </div>
+
 </div>
+
+
+
+
 &nbsp;
 &nbsp;
 
