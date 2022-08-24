@@ -77,95 +77,59 @@
 
 #### Stems: dry and normalized
 
-#### Vocals
-
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
-    - dry <br />
+    - Vocals-dry <br />
 <audio controls="controls">
     <source src="audio/008/vocals_dry.mp3" type="audio/mp3" />
 </audio>
-  </div>
-
- <div id="column1" style="float:left; margin:0; width:36.5%;">
-    - normalized <br />
-<audio controls="controls">
-    <source src="audio/008/vocals_norm.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-</div>
-
-#### Drums
-
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-    - dry <br />
+    - Drums-dry <br />
 <audio controls="controls">
     <source src="audio/008/drums_dry.mp3" type="audio/mp3" />
 </audio>
-  </div>
-
- <div id="column1" style="float:left; margin:0; width:36.5%;">
-    - normalized <br />
-<audio controls="controls">
-    <source src="audio/008/drums_norm.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-</div>
-
-#### Bass
-
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-    - dry <br />
+    - Bass-dry <br />
 <audio controls="controls">
     <source src="audio/008/bass_dry.mp3" type="audio/mp3" />
 </audio>
-  </div>
-
- <div id="column1" style="float:left; margin:0; width:36.5%;">
-    - normalized <br />
-<audio controls="controls">
-    <source src="audio/008/bass_norm.mp3" type="audio/mp3" />
-</audio>
-  </div>
-
-</div>
-
-#### Other
-
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-    - dry <br />
+    - Other-dry <br />
 <audio controls="controls">
     <source src="audio/008/other_dry.mp3" type="audio/mp3" />
 </audio>
   </div>
 
- <div id="column1" style="float:left; margin:0; width:36.5%;">
-    - normalized <br />
+ <div id="column2" style="float:left; margin:0; width:36.5%;">
+    - Vocals-normalized <br />
+<audio controls="controls">
+    <source src="audio/008/vocals_norm.mp3" type="audio/mp3" />
+</audio>
+     - Drums-normalized <br />
+<audio controls="controls">
+    <source src="audio/008/drums_norm.mp3" type="audio/mp3" />
+</audio>
+     - Bass-normalized <br />
+<audio controls="controls">
+    <source src="audio/008/bass_norm.mp3" type="audio/mp3" />
+</audio>
+     - Other-normalized <br />
 <audio controls="controls">
     <source src="audio/008/other_norm.mp3" type="audio/mp3" />
 </audio>
   </div>
 
 </div>
+&nbsp;
 
-
-
-### Dry and Normalized mixtures
+### Dry and Normalized mixes
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
-    - dry <br />
+    - Dry mix <br />
 <audio controls="controls">
     <source src="audio/008/dry_mixture.mp3" type="audio/mp3" />
 </audio>
   </div>
 
  <div id="column1" style="float:left; margin:0; width:36.5%;">
-    - normalized <br />
+    - Normalized mix <br />
 <audio controls="controls">
     <source src="audio/008/norm_mix.mp3" type="audio/mp3" />
 </audio>
