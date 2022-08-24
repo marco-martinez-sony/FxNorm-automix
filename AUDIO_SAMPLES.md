@@ -1,6 +1,6 @@
 # Automatic music mixing with deep learning and out-of-domain data
 &nbsp;
-## Audio samples from the listening test:
+## Audio samples from the listening testddddddd:
 &nbsp;
 (Due to copyright, we can only make Song 4 public)
 
@@ -53,7 +53,7 @@
 - normalized <br />
 <audio controls="controls">
     <source src="audio/018/bass_norm.mp3" type="audio/mp3" />
-</audio> <br />
+</audio> 
 </div>
 </div>
 #### Drums
@@ -68,7 +68,7 @@
 - normalized <br />
 <audio controls="controls">
     <source src="audio/018/drums_norm.mp3" type="audio/mp3" />
-</audio> <br />
+</audio> 
 </div>
 </div>
 #### Bass
@@ -83,7 +83,7 @@
 - normalized <br />
 <audio controls="controls">
     <source src="audio/018/bass_norm.mp3" type="audio/mp3" />
-</audio> <br />
+</audio> 
 </div>
 </div>
 #### Other
@@ -98,7 +98,7 @@
 - normalized <br />
 <audio controls="controls">
     <source src="audio/018/other_norm.mp3" type="audio/mp3" />
-</audio> <br />
+</audio> 
 </div>
 </div>
 &nbsp;
