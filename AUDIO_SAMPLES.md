@@ -77,7 +77,7 @@
 
 #### Stems: dry and normalized
 
-#### Vocalsfewfewff
+#### Vocals
 
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
@@ -95,24 +95,84 @@
   </div>
 
 </div>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+#### Drums
+
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
+    - dry <br />
+<audio controls="controls">
+    <source src="audio/008/drums_dry.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+ <div id="column1" style="float:left; margin:0; width:36.5%;">
+    - normalized <br />
+<audio controls="controls">
+    <source src="audio/008/drums_norm.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+</div>
+
+#### Bass
+
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
+    - dry <br />
+<audio controls="controls">
+    <source src="audio/008/bass_dry.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+ <div id="column1" style="float:left; margin:0; width:36.5%;">
+    - normalized <br />
+<audio controls="controls">
+    <source src="audio/008/bass_norm.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+</div>
+
+#### Other
+
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
+    - dry <br />
+<audio controls="controls">
+    <source src="audio/008/other_dry.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+ <div id="column1" style="float:left; margin:0; width:36.5%;">
+    - normalized <br />
+<audio controls="controls">
+    <source src="audio/008/other_norm.mp3" type="audio/mp3" />
+</audio>
+  </div>
+
+</div>
+
 
 
 ### Dry and Normalized mixtures
-<div id="contentBox" style="margin:0px auto; width:100%">
-- Dry <br />
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
+    - dry <br />
 <audio controls="controls">
     <source src="audio/008/dry_mixture.mp3" type="audio/mp3" />
-</audio> <br />
+</audio>
+  </div>
 
-- Normalized <br />
+ <div id="column1" style="float:left; margin:0; width:36.5%;">
+    - normalized <br />
 <audio controls="controls">
     <source src="audio/008/norm_mix.mp3" type="audio/mp3" />
-</audio> <br />
+</audio>
+  </div>
+
 </div>
+
 &nbsp;
 
 ### Indian-Pop
