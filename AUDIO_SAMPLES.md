@@ -41,7 +41,7 @@
 
 ### S4 - Stems: dry and normalized
 
-### Tube amplifier emulation
+### Bass
 <div id="contentBox" style="margin:0px auto; width:385%">
 <div id="column1" style="float:left; margin:0; width:5.75%;">
 - Low-anchor <br />
