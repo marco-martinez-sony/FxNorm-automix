@@ -17,7 +17,7 @@ Music mixing traditionally involves recording instruments in the form of clean, 
 
 # Paper
 
-For technical details of the work, please see our **ISMIR 2022 Paper**: [https://arxiv.org/](https://arxiv.org/).
+For technical details of the work, please see our **ISMIR 2022 Paper**: [https://arxiv.org/abs/2208.11428](https://arxiv.org/abs/2208.11428).
 
 "[Automatic music mixing with deep learning and out-of-domain data.](https://marco-martinez-sony.github.io/FxNorm-automix/)"
 [Marco A. Martínez-Ramírez](https://m-marco.com/about/), [Wei-Hsiang Liao](https://jp.linkedin.com/in/wei-hsiang-liao-66283154), [Giorgio Fabbro](https://twitter.com/GioFabbro), [Stefan Uhlich](https://scholar.google.de/citations?user=hja8ejYAAAAJ&hl=de), [Chihiro Nagashima](https://jp.linkedin.com/in/chihiro-nagashima-9473271aa), and [Yuki Mitsufuji](https://www.yukimitsufuji.com/). <br />
