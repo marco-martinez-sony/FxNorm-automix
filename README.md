@@ -37,7 +37,7 @@ Mixes are available [here](./AUDIO_SAMPLES.md).
 
 # Code
 
-Source code and various trained models will be available at [https://github.com/sony/fxnorm-automix](https://github.com/sony/fxnorm-automix) (soon to be released).
+Source code and various trained models are available at [https://github.com/sony/fxnorm-automix](https://github.com/sony/fxnorm-automix).
 
 
 &nbsp;
